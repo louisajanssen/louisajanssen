@@ -1,6 +1,6 @@
 # Hello World 👋 #
 
-I am Louisa Janssen, a german fullstack software engineer working on projects I am passionate about and open to work. 
+I am **Louisa Janssen**, a german fullstack software engineer based in Bellevue, Washington. At the moment I am working on projects I am passionate about and looking for other opportunities in **Software Engineering**. 
 
 - 🔭 I’m currently looking for opportunitues in **Software Development**
 - 🌱 I’m currently learning **Typescript**
