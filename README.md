@@ -8,6 +8,8 @@ I am Louisa Janssen, a german fullstack software engineer working on projects I 
 
 # Contact Me #
 - - - -
+[![Linkedin Badge](https://img.shields.io/badge/-LouisaJanssen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louisa-janssen/)](https://www.linkedin.com/in/louisa-janssen/)
+[![Gmail Badge](https://img.shields.io/badge/-janssenlouisa1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janssenlouisa1@gmail.com)](mailto:janssenlouisa1@gmail.com)
 
 # Technologies #
 - - - -
