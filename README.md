@@ -4,7 +4,7 @@ I am **Louisa Janssen**, a German Fullstack Software Engineer based in Bellevue,
 
 - 🔭 I’m currently looking for opportunitues in **Software Development**
 - 🌱 I’m currently learning **Typescript**, **Authentication** and **Redux**
-- 💬 Ask me about **Software Engineering Bootcamps**, **Germany** & **hiking**.
+- 💬 Ask me about **Software Engineering Bootcamps**, **Germany**, **Australian Shepherds** & **hiking**.
 
 ## Contact Me ##
 [![Linkedin Badge](https://img.shields.io/badge/-LouisaJanssen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louisa-janssen/)](https://www.linkedin.com/in/louisa-janssen/)
