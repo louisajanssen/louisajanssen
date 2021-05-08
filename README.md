@@ -1,4 +1,4 @@
-# Hello World! #
+# Hello World, nice to meet you! #
 
 I am **Louisa Janssen**, a German Fullstack Software Engineer based in Bellevue, Washington. At the moment I am working on projects I am passionate about and looking for other opportunities in **Software Engineering**, especially frontend development. 
 
